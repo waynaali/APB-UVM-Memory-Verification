@@ -128,6 +128,23 @@ APB-UVM-Memory-Verification/
 * Synopsys VCS
 * DVE
 * Functional and code coverage
+* ## Simulation Results
+
+The complete APB UVM test suite was executed successfully using Synopsys VCS.
+
+* **Scoreboard Checks:** 157
+* **Passed:** 157
+* **Failed:** 0
+* **UVM Errors:** 0
+* **UVM Fatal Errors:** 0
+* **UVM Warnings:** 0
+* **Overall Test Status:** **PASS**
+
+### Final Simulation Result
+
+![Simulation Result](docs/simulation_pass.png)
+
+The final `apb_all_test` execution completed successfully with all scoreboard checks passing and no UVM errors or fatal reports.
 
 ## Author
 
