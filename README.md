@@ -140,7 +140,6 @@ The complete APB UVM test suite was executed successfully using Synopsys VCS.
 * **UVM Warnings:** 0
 * **Overall Test Status:** **PASS**
 
-### Final Simulation Result
 
 ## Simulation Results
 
