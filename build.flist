@@ -1,0 +1,12 @@
++incdir+../rtl
++incdir+../tb
+
+../rtl/apb_fsm.sv
+../rtl/generic_mem.sv
+../rtl/mem_1024x32.sv
+../rtl/err_gen.sv
+../rtl/apb_wrapper.sv
+
+../tb/apb_interface.sv
+../tb/apb_tb_uvm_pkg.sv
+../tb/testbench.sv
